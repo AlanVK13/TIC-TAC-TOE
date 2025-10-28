@@ -52,8 +52,8 @@ Para poner en marcha este juego en tu sistema:
 
 | Característica | Detalle |
 | :--- | :--- |
-| **Nombre** | [ ALAN VALADEZ |
-| **GitHub** | [[@TuUsuarioDeGitHub]](https://github.com/AlanVK13) |
+| **Nombre** |  ALAN VALADEZ |
+| **GitHub** | [[@TuUsuarioDeGitHub]](https://github.com/AlanVK13) (https://github.com/AlanVK13) |
 | **Contacto** | alanvaladez665@gmail.com |
 | **Fecha** | 27/10/25 |
 ```
