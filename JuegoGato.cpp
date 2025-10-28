@@ -263,3 +263,5 @@ void limpiarPantalla() {
         system("clear");
     #endif
 }
+
+//Codigo funcionando 
